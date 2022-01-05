@@ -1,0 +1,110 @@
+[
+{
+"playerImage":"https://www.cricbuzz.com/a/img/v1/75x75/i1/c170733/kane-williamson.jpg",
+"playerName":"Kane Williamson"
+},
+{
+"playerImage":"https://www.cricbuzz.com/a/img/v1/75x75/i1/c170635/david-warner.jpg",
+"playerName":"David Warner (Captain)"
+},
+{
+"playerImage":"https://www.cricbuzz.com/a/img/v1/75x75/i1/c171022/manish-pandey.jpg",
+"playerName":"Manish Pandey"
+},
+{
+"playerImage":"https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/priyam-garg.jpg",
+"playerName":"Priyam Garg"
+},
+{
+"playerImage":"https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/virat-singh.jpg",
+"playerName":"Virat Singh"
+},
+{
+"playerImage":"https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/abdul-samad.jpg",
+"playerName":"Abdul Samad"
+},
+{
+"playerImage":"https://www.cricbuzz.com/a/img/v1/75x75/i1/c170664/vijay-shankar.jpg",
+"playerName":"Vijay Shankar"
+},
+{
+"playerImage":"https://www.cricbuzz.com/a/img/v1/75x75/i1/c191412/mitchell-marsh.jpg",
+"playerName":"Mitchell Marsh"
+},
+{
+"playerImage":"https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/bavanaka-sandeep.jpg",
+"playerName":"Bavanaka Sandeep"
+},
+{
+"playerImage":"https://www.cricbuzz.com/a/img/v1/75x75/i1/c170794/fabian-allen.jpg",
+"playerName":"Fabian Allen"
+},
+{
+"playerImage":"https://www.cricbuzz.com/a/img/v1/75x75/i1/c170853/mohammad-nabi.jpg",
+"playerName":"Mohammad Nabi"
+},
+{
+"playerImage":"https://www.cricbuzz.com/a/img/v1/75x75/i1/c153963/abhishek-sharma.jpg",
+"playerName":"Abhishek Sharma"
+},
+{
+"playerImage":"https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/sanjay-yadav.jpg",
+"playerName":"Sanjay Yadav"
+},
+{
+"playerImage":"https://www.cricbuzz.com/a/img/v1/75x75/i1/c170806/jason-holder.jpg",
+"playerName":"Jason Holder"
+},
+{
+"playerImage":"https://www.cricbuzz.com/a/img/v1/75x75/i1/c170976/jonny-bairstow.jpg",
+"playerName":"Jonny Bairstow (Keeper)"
+},
+{
+"playerImage":"https://www.cricbuzz.com/a/img/v1/75x75/i1/c171058/wriddhiman-saha.jpg",
+"playerName":"Wriddhiman Saha (Keeper)"
+},
+{
+"playerImage":"https://www.cricbuzz.com/a/img/v1/75x75/i1/c155138/shreevats-goswami.jpg",
+"playerName":"Shreevats Goswami"
+},
+{
+"playerImage":"https://www.cricbuzz.com/a/img/v1/75x75/i1/c170689/bhuvneshwar-kumar.jpg",
+"playerName":"Bhuvneshwar Kumar"
+},
+{
+"playerImage":"https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/basil-thampi.jpg",
+"playerName":"Basil Thampi"
+},
+{
+"playerImage":"https://www.cricbuzz.com/a/img/v1/75x75/i1/c156049/billy-stanlake.jpg",
+"playerName":"Billy Stanlake"
+},
+{
+"playerImage":"https://www.cricbuzz.com/a/img/v1/75x75/i1/c153909/sandeep-sharma.jpg",
+"playerName":"Sandeep Sharma"
+},
+{
+"playerImage":"https://www.cricbuzz.com/a/img/v1/75x75/i1/c167339/shahbaz-nadeem.jpg",
+"playerName":"Shahbaz Nadeem"
+},
+{
+"playerImage":"https://www.cricbuzz.com/a/img/v1/75x75/i1/c192649/siddarth-kaul.jpg",
+"playerName":"Siddarth Kaul"
+},
+{
+"playerImage":"https://www.cricbuzz.com/a/img/v1/75x75/i1/c171017/khaleel-ahmed.jpg",
+"playerName":"Khaleel Ahmed"
+},
+{
+"playerImage":"https://www.cricbuzz.com/a/img/v1/75x75/i1/c198676/t-natarajan.jpg",
+"playerName":"T Natarajan"
+},
+{
+"playerImage":"https://www.cricbuzz.com/a/img/v1/75x75/i1/c170857/rashid-khan.jpg",
+"playerName":"Rashid Khan"
+},
+{
+"playerImage":"https://www.cricbuzz.com/a/img/v1/75x75/i1/c174146/prithvi-raj-yarra.jpg",
+"playerName":"Prithvi Raj Yarra"
+}
+]
