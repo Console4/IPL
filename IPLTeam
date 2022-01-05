@@ -1,41 +1,41 @@
 [{
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Chennai_Super_Kings_Logo.svg/1200px-Chennai_Super_Kings_Logo.svg.png",
 		"teamName": "CSK",
-		"teamClick": ""
+		"teamClick": "https://raw.githubusercontent.com/Console4/IPL/main/CSK"
 	},
 	{
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Delhi_Capitals_Logo.svg/1200px-Delhi_Capitals_Logo.svg.png",
 		"teamName": "DC",
-		"teamClick": ""
+		"teamClick": "https://raw.githubusercontent.com/Console4/IPL/main/DC"
 	},
 	{
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Kolkata_Knight_Riders_Logo.svg/1200px-Kolkata_Knight_Riders_Logo.svg.png",
 		"teamName": "KKR",
-		"teamClick": ""
+		"teamClick": "https://raw.githubusercontent.com/Console4/IPL/main/KKR"
 	},
 	{
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Mumbai_Indians_Logo.svg/1200px-Mumbai_Indians_Logo.svg.png",
 		"teamName": "MI",
-		"teamClick": ""
+		"teamClick": "https://raw.githubusercontent.com/Console4/IPL/main/MI"
 	},
 	{
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/1/1c/Punjab_Kings_logo_2021.png",
 		"teamName": "PBKS",
-		"teamClick": ""
+		"teamClick": "https://raw.githubusercontent.com/Console4/IPL/main/PANJAB"
 	},
 	{
 		"teamImage": "https://www.soaringsixes.in/wmsimages/rajasthan.png",
 		"teamName": "RR",
-		"teamClick": ""
+		"teamClick": "https://raw.githubusercontent.com/Console4/IPL/main/RR"
 	},
 	{
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Royal_Challengers_Bangalore_2020.svg/1200px-Royal_Challengers_Bangalore_2020.svg.png",
 		"teamName": "RCB",
-		"teamClick": ""
+		"teamClick": "RCB"
 	},
 	{
 		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Sunrisers_Hyderabad.svg/1200px-Sunrisers_Hyderabad.svg.png",
 		"teamName": "SH",
-		"teamClick": ""
+		"teamClick": "https://raw.githubusercontent.com/Console4/IPL/main/HY"
 	}
 ]
